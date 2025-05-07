@@ -10,6 +10,9 @@ Uzyskałem tytuł inżyniera elektroniki na Wojskowej Akademii Technicznej. Jest
 - Visual Studio Code / Linux terminal
   
 ## 📂 Projekty C/C++
+### 📌 Gra wisielec
+Klasyczna gra tekstowa napisana w języku C. Gracz zgaduje litery ukrytego słowa, mając ograniczoną liczbę prób.
+
 ### 📌 Kalkulator
 Prosty kalkulator napisany w języku C z obsługą błędów i dodatkowymi funkcjami (np. silnia).
 
