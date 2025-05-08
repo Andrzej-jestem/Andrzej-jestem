@@ -11,7 +11,7 @@ Uzyskałem tytuł inżyniera elektroniki na Wojskowej Akademii Technicznej. Jest
   
 ## 📂 Projekty C/C++
 ### 📌 Gra wisielec
-Klasyczna gra tekstowa napisana w języku C. Gracz zgaduje litery ukrytego słowa, mając ograniczoną liczbę prób.
+Klasyczna gra tekstowa napisana w języku C. Program losuje jedno z kilkudziesięciu haseł, a gracz zgaduje litery ukrytego słowa, mając ograniczoną liczbę prób.
 
 ### 📌 Kalkulator
 Prosty kalkulator napisany w języku C z obsługą błędów i dodatkowymi funkcjami (np. silnia).
